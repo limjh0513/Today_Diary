@@ -26,4 +26,4 @@
 - [2021년 05월 05일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2005%EC%9B%94/2021_05_05.md)
 - [2021년 05월 06일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2005%EC%9B%94/2021_05_06.md)
 - [2021년 05월 07일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2005%EC%9B%94/2021_05_07.md)
-- [2021년 05월 08일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2005%EC%9B%94/2021_05_07.md)
+- [2021년 05월 08일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2005%EC%9B%94/2021_05_08.md)
