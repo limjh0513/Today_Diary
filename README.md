@@ -63,3 +63,4 @@
 - [2021년 06월 08일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2006%EC%9B%94/2021_06_08.md) 화요일
 - [2021년 06월 09일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2006%EC%9B%94/2021_06_09.md) 수요일
 - [2021년 06월 10일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2006%EC%9B%94/2021_06_10.md) 목요일
+- [2021년 06월 11일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2006%EC%9B%94/2021_06_11.md) 금요일
