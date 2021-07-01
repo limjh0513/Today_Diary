@@ -85,3 +85,5 @@
 - [2021년 06월 30일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2006%EC%9B%94/2021_06_30.md) 수요일
 
 ### 2021년 7월
+
+- [2021년 07월 01일](https://github.com/limjh0513/Today_Diary/blob/main/2021%EB%85%84%2007%EC%9B%94/2021_07_01.md) 목요일
