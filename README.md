@@ -394,3 +394,4 @@
 - [2022년 04월 04일](https://github.com/limjh0513/Today_Diary/blob/main/2022%EB%85%84%2004%EC%9B%94/2022_04_04.md) 월요일
 - [2022년 04월 05일](https://github.com/limjh0513/Today_Diary/blob/main/2022%EB%85%84%2004%EC%9B%94/2022_04_05.md) 화요일
 - [2022년 04월 06일](https://github.com/limjh0513/Today_Diary/blob/main/2022%EB%85%84%2004%EC%9B%94/2022_04_06.md) 수요일
+- [2022년 04월 07일](https://github.com/limjh0513/Today_Diary/blob/main/2022%EB%85%84%2004%EC%9B%94/2022_04_07.md) 목요일
